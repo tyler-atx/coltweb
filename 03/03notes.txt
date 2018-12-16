@@ -1,0 +1,20 @@
+
+
+### MDN - Mozilla Developer Network
+
+developer.mozilla.org
+
+Resource for HTML/CSS/Js
+
+Excellent reference
+
+----
+
+Sublime shortcut: 'html + TAB' to expand html header
+
+<head> - contains style sheets, other metadata. Some text will still be rendered in head.
+
+Comment
+<!-- comment. Can use CMD+/ shortcut -->
+
+<title> - The title of the page (in tab, and used for search)

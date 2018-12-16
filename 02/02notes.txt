@@ -1,0 +1,17 @@
+
+----
+###
+Front End: HTML, CSS, JS
+Backend: Anything you want
+
+*HTML*: The standardized way to communicate on the internet (from back in the darpa days)   
+The _nouns_ of a webpage  
+
+*CSS*: The _style_ of a webpage. Defines the style of the HTML.   
+The _adjectives_ of a webpage. Skin of the HTML skeleton.  
+
+*Javascript*: Logic and interactivity  
+The _Verbs_ of a webpage  
+
+---
+
