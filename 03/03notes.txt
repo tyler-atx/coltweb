@@ -12,9 +12,22 @@ Excellent reference
 
 Sublime shortcut: 'html + TAB' to expand html header
 
+## HTML Elements
+
 <head> - contains style sheets, other metadata. Some text will still be rendered in head.
 
 Comment
 <!-- comment. Can use CMD+/ shortcut -->
 
 <title> - The title of the page (in tab, and used for search)
+
+"Block-level elements" - headings, paragraphs and similar. They get their own line, regardless of tag placement in the HTML
+
+<b> Old-style bold tag
+<strong> the new semantic-style markup
+
+<i> or <em> - italicize tags
+
+_Seperate "styling" from "structure"_
+
+
