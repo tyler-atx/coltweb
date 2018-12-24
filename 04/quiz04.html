@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Quiz 04</title>
+</head>
+<body>
+
+<h1>Register</h1>
+
+<form>
+
+
+<!-- Name -->
+    
+    <label for="firstName">First Name:</label>
+    <input id="firstName" type="text" required>
+
+    <label for="lastName">Last Name:</label>
+    <input id="lastName" type="text" required>
+
+<!-- Radio Gender Selection -->
+<div>
+    <label for="male">Male:</label>
+    <input type="radio" id="male" name="gender" value="Male">
+
+    <label for="female">Female:</label>
+    <input type="radio" id="female" name="gender" value="Female">
+
+    <label for="other">Other:</label>
+    <input type="radio" id="other" name="gender" value="Other">
+</div>
+<!-- Email -->
+
+<div>
+    <label for="email">Email:</label>
+    <input id="email" type="email" required>
+
+    <label for="password">Password:</label>
+    <input id="password" type="text"  maxlength="10" minlength="5">
+
+</div>
+<!-- Birthday Dropdown -->
+
+
+Birthday:
+    <select name="Month">
+        <option value="January">Jan</option>
+        <option value="February">Feb</option>
+        <option value="March">Mar</option>
+        <option value="April">Apr</option>
+    </select>
+
+    <select name="Day">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+    </select>
+
+
+    <select name="Year">
+        <option value="2000">2001</option>
+        <option value="2001">2002</option>
+        <option value="2002">2003</option>
+        <option value="2003">2004</option>
+    </select>
+
+<!-- Agree to terms -->
+<div>
+
+I agree to the terms and conditions:
+
+    <input name="agree" type="checkbox" required>
+</div>
+
+<!-- Submit -->
+
+    <button>Submit</button>
+
+
+</form>
+
+
+
+
+</body>
+</html>
