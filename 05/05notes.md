@@ -88,6 +88,43 @@ color: rgb(0, 255, 0, .5)
 46 - Background and Border
 
 
+Background color
+
+>h1 {
+>    color: purple;
+>    font-size: 56px;
+>	 background: rgb(80, 100, 80);
+>}
+
+Background image
+
+Default is tiled. You can tell it not to repeat, and to cover the whole area
+
+>h1 {
+>    color: purple;
+>    font-size: 56px;
+>	 background: url(http://www.image.com/image.jpg);
+> 	 background-repeat: no-repeat;
+>    background-size: cover;
+>}
+
+
+Borders have a color, width, and style
+
+>h1 {
+>    color: #AFAFFF;
+>    border-color: pink;
+>    border-width: 5px;
+>    border-style: solid;
+>}
+
+There is a shorthand for these arguments
+
+>h1 {
+>    color: #AFAFFF;
+>    border: 5px solid purple;
+>}
+
 
 
 

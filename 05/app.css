@@ -1,6 +1,7 @@
 
 h1 {
     color: #AFAFFF;
+    border: 5px solid purple;
 }
 
 li {
@@ -9,4 +10,8 @@ li {
 
 h4 {
     color: orange;
+    /*background: rgb(255, 100, 80);*/
+    background: url(https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
