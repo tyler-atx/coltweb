@@ -125,7 +125,12 @@ There is a shorthand for these arguments
 >    border: 5px solid purple;
 >}
 
+-----------
 
+47 - Selectors Basic Todo List
+
+
+:q
 
 
 
